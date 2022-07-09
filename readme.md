@@ -1,6 +1,6 @@
-<h1 align="left"> Qardio Case Study </h1>
+<h1 align="left">Temperature API</h1>
 
-### Qardio Case Study - Temperature API
+### Temperature API
 In this project a REST microservice developed.
 
 #How To Run:
